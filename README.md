@@ -18,3 +18,7 @@
 
 🌱 Make sure you're releasing the previous arrow key before trying to click another key to move the bunny (not allowed to hold keys and make bunny move - bunny moves only 1 square each time)
 
+# Video demo
+<a href="https://youtu.be/61K7bjsyuOE" title="video text"><img src="thumbnail.png"></a>
+
+▶️ https://youtu.be/61K7bjsyuOE
